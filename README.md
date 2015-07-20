@@ -13,3 +13,4 @@ comments. Be sure to read everything. Run lab.js with `node lab1.js`.
 
 
 #### Resources and Collaborators
+I used MDN and collaborated with Mike Tse on this lab. I got behind and stuck on a couple of the problems but he helped me through where I got stuck with the chirps and Math.random.
